@@ -1,0 +1,7 @@
+{
+  "name": "geppettodevtest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
